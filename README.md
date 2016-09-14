@@ -1,0 +1,2 @@
+# PayPeriodCalculator
+This program represents 2 weeks with 7 days available to work in  a week. Each element in the 2D array represents the hours worked  for that day of the week. This program will get the total of all  the values, return the average of the values, return the total  for each row, return the total for each column, display the highest value in the row, and display the lowest value in the array using  functions.
